@@ -1,2 +1,2 @@
-module dance 
+module Dance 
 end
